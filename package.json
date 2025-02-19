@@ -1,18 +1,13 @@
 {
   "name": "preentrega2",
   "version": "1.0.0",
-  "description": "",
   "main": "src/app.js",
   "type": "module",
   "scripts": {
     "start": "node src/app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2",
-    "fs": "^0.0.1-security"
+    "express": "^4.18.2"
   }
 }
 
